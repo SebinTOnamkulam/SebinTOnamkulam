@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebinTOnamkulam
 - 👀 I’m interested in software testing
-- 🌱 I’m currently Working as QA engineer
+- 🌱 I’m currently Working as a QA engineer
 - 💞️ I’m looking to collaborate on Automation
 - 📫 How to reach me 
 
